@@ -1,8 +1,15 @@
 # JupyterDash Tutorial
 A small introductory tutorial on JupyterDash!
 
-* [Click here](https://youtu.be/PshzA4LUZu8)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=PshzA4LUZu8" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/PshzA4LUZu8?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![JupyterDash Tutorial](http://img.youtube.com/vi/PshzA4LUZu8/0.jpg)](http://www.youtube.com/watch?v=PshzA4LUZu8)
 
